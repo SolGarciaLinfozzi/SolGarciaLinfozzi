@@ -8,8 +8,7 @@ Soy una persona proactiva y siempre estoy en busca de nuevos conocimientos para 
 
 * https://thermomix-production.up.railway.app/
 
-* https://proyectosdedisenio-production.up.railway.app/
-
+<!-- https://proyectosdedisenio-production.up.railway.app/ -->
 
 ## 🛠️ Habilidades técnicas 
 * JavaScript
