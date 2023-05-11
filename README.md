@@ -6,8 +6,8 @@ Soy una persona proactiva y siempre estoy en busca de nuevos conocimientos para 
 
 ## 📂 Algunos proyectos 
 
-* [Thermomix](thermomix.up.railway.app)
-* [MenuBox](menubox.up.railway.app)
+* [Thermomix](https://thermomix.up.railway.app/)
+* [MenuBox](https://menubox.up.railway.app/)
 
 <!--  -->
 
