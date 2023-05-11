@@ -13,7 +13,7 @@ https://thermomix-production.up.railway.app/
 * JavaScript
 * NodeJS
 * React
-* SQl
+* SQL
 * MongoDB
 * Responsive Design
 * UX / UI
