@@ -6,8 +6,9 @@ Soy una persona proactiva y siempre estoy en busca de nuevos conocimientos para 
 
 ## 📂 Algunos proyectos 
 
-* thermomix.up.railway.app
-* menubox.up.railway.app
+* [Thermomix](thermomix.up.railway.app)
+* [MenuBox](menubox.up.railway.app)
+
 <!--  -->
 
 ## 🛠️ Habilidades técnicas 
