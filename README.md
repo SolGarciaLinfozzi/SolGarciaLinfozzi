@@ -6,17 +6,17 @@ Soy una persona proactiva y siempre estoy en busca de nuevos conocimientos para 
 
 
 🛠️ Tecnologías 
-*JavaScript
-*NodeJS
-*React
-*SQl
-*MongoDB
-*Responsive Design
-*UX / UI
-*HTML
-*CSS
-*Express
-*Handlebars
+* JavaScript
+* NodeJS
+* React
+* SQl
+* MongoDB
+* Responsive Design
+* UX / UI
+* HTML
+* CSS
+* Express
+* Handlebars
 
 
 📧 Contacto
